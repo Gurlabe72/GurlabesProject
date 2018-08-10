@@ -1,0 +1,33 @@
+
+@media screen (max-width: 320px)
+{
+
+}
+      
+nav {
+    border:solid;
+    font:100%;
+    font-family: "times";
+    
+    } 
+
+nav a:hover {
+  color:brown;
+  text-align: right;
+}
+
+body {
+
+ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-K32lCXbqX9t3gr8OxKtUifWIEpizaq7GgtxQzuMvJOl57u3");
+    background-repeat: no-repeat;
+  background: radial-gradient(red, green, blue);
+  position: :relative;
+}  
+  
+
+form {
+   background-float:middle;
+  border-style:double;
+  border-color: white;
+}
+
